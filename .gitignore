@@ -1,0 +1,11 @@
+# Pascal
+*.o
+*.ppu
+*.bak
+
+# Ejecutables
+*.exe
+*.out
+
+# Temporales
+.DS_Store
